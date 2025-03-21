@@ -1,16 +1,38 @@
-## Hi there 👋
+안녕하세요!  저는 한상욱 입니다.
+🎓 학력
 
-<!--
-**hansangwook1/hansangwook1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+문정고등학교 졸업
+패션전문학교 중퇴
+전공: 패션
+💼 경력
 
-Here are some ideas to get you started:
+패션위크 참여
+🎬 대학 시절 경험
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+패션위크와 옷 제작 등등에 여러 프로젝트에 참여하여 다양한 경험을 쌓음
+다양한 옷 제작과 머천다이징 등의 경험을 통해 창의력과 협업 능력을 키웠음
+팀 프로젝트를 통해 옷의 패턴, 시스템을 이해하였고, 옷에 대한 관심이 커져 패션위크에 참여하였습니다
+🎯 저의 목표
+
+현재 한국폴리텍대학 빅데이터과 1학년 재학 중이며
+기초 프로그래밍과 빅데이터 관련 지식을 쌓아가며, 소프트웨어 개발 분야에 필요한 기본 역량을 개발 중
+앞으로 개발자로서의 경험을 쌓기 위해 차근차근 프로젝트와 학습을 진행하고 있습니다.
+💡 제가 좋아하는 것들
+
+🎶 음악과 옷, 예술
+💡 옷의 패턴을 찾는 일과 모델에게 빛날 수 있는 옷을 생각해 내는 것
+🛠️ 기술 스택 및 전문 분야
+
+
+💻 프로그래밍 언어 (Python, Java 등 기초 학습 중)
+🛠 빅데이터 기초 (학습 중)
+📊 나의 프로젝트 및 경험
+
+패션위크
+온라인쇼핑몰 창업
+
+📧 연락처
+
+📩 이메일: [oj91214@gmail.com]
+📞 전화: [010-4237-9936]
+모르는 부분에 대해 궁금증을 가지고 해결할 수 있는 개발자로서 최선을 다하겠습니다.
